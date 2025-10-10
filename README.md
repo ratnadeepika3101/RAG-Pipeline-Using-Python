@@ -1,4 +1,4 @@
-# yt-rag
+# RAG Pipeline Using python
 
 This project features a sophisticated multi-level Retrieval-Augmented Generation (RAG) system built using Google’s Gemini 2.5 Flash model. The system is designed to provide efficient, context-aware AI responses with a focus on transparency and scalability.
 
