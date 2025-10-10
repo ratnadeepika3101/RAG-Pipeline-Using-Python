@@ -1,0 +1,11 @@
+ Machine learning is a branch of Artificial Intelligence that focuses on developing models and algorithms which enable computers to learn from data without being explicitly programmed for every task. In simpler terms, machine learning gives computers the ability to automatically discover patterns and make predictions or decisions based on experience, much like humans learn from observation and feedback.
+
+There are three major types of machine learning:
+
+Supervised Learning: The model is trained with labeled data and learns to predict or classify new, unseen data.
+
+Unsupervised Learning: The model looks for patterns or groups in unlabeled data, often used for tasks like clustering.
+
+Reinforcement Learning: The model learns by interacting with an environment and maximizing rewards through trial and error, making it useful for sequential decision problems.
+
+A typical machine learning workflow consists of collecting and cleaning data, choosing and training the right model, evaluating its performance, tuning its parameters, and deploying the model for real-world predictions or analysis. Machine learning has transformative applications in fields like healthcare, finance, robotics, and more, and forms the foundation for most modern AI solutions
