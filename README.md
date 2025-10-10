@@ -1,4 +1,4 @@
-# yt-rag
+# RAG Pipeline Using python
 
 A Python project implementing a Retrieval-Augmented Generation (RAG) pipeline. This project demonstrates how to ingest documents, embed them, store them in a vector database, and retrieve relevant documents based on a query.
 
