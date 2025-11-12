@@ -6,4 +6,9 @@ pymupdf
 sentence-transformers
 faiss-cpu
 chromadb
+<<<<<<< HEAD
 typesense
+=======
+langchain-google-genai
+python-dotenv
+>>>>>>> ae9dd06a9d99aa7941ee92a4ecdd57332ecbb98d
