@@ -14,4 +14,5 @@ dependencies = [
     "pymupdf>=1.26.4",
     "pypdf>=6.1.1",
     "sentence-transformers>=5.1.1",
+    "typesense>=1.1.1",
 ]

@@ -1,0 +1,15 @@
+Artificial intelligence (AI) is the development of computer systems that can perform tasks requiring human intelligence, such as learning, reasoning, and problem-solving, by processing data and adapting over time. AI benefits include automation of repetitive tasks, improved accuracy, and enhanced decision-making across various fields like healthcare, finance, and manufacturing. Common examples include virtual assistants, chatbots, and systems used for fraud detection and medical image analysis. 
+Key concepts and benefits
+How it works: Instead of relying solely on explicit instructions, AI systems learn from large amounts of data to find patterns and make predictions.
+Core technologies: Major branches of AI include machine learning, deep learning, and natural language processing (NLP).
+Benefits: AI can automate workflows, making businesses more efficient and productive. It can also provide deeper insights from complex data, leading to more informed decisions.
+Everyday examples: You interact with AI through services like search engines, digital assistants (like Siri or Alexa), and personalized recommendations on streaming services. 
+Types of AI
+Narrow AI: Also known as weak AI, this type is designed to perform a single, specific task, such as a virtual assistant or a chess-playing program.
+Generative AI: This AI can create new content like text, images, or code in response to a user's prompt.
+General AI: This is the hypothetical type of AI that could perform any intellectual task that a human can. 
+Applications
+Customer service: AI-powered chatbots and virtual assistants handle customer inquiries with human-like conversation.
+Healthcare: AI is used for tasks like analyzing medical images to detect diseases and for developing new drugs.
+Autonomous vehicles: AI enables self-driving cars to navigate, perceive their surroundings, and make decisions.
+Cybersecurity: AI systems continuously monitor and analyze network traffic to detect and prevent threats. 
